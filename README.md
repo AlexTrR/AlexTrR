@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there!!! I'm Alex 👋
+
+- 🔭 I’m currently working on Python Software Development...
+- 🌱 I’m currently learning Pandas, Django, OpenCV and Kivy...
+- 💬 Ask me about SQL & VBA for Excel...
+
 
 <!--
 **AlexTrR/AlexTrR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
